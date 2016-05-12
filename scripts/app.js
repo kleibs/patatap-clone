@@ -1,3 +1,5 @@
+sweetAlert("Turn on your speakers and start typing!");
+
 var keyData = {
   q: {
     sound: new Howl({
